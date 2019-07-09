@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 3b2e1c6f922a9094e8d2e5babe7e61e5
+timeCreated: 1562682528
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chall
+    21300002: hy
+    21300004: 1-hy
+    21300006: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u5C0F\u9C7C\u8D70_\u7231\u7ED9\u7F51_aigei_com"
+    21300008: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u82CF\u6A31_\u7231\u7ED9\u7F51_aigei_com"
+    21300010: chall_0
+    21300012: chall_1
+    21300014: chall_2
+    21300016: chall_3
+    21300018: chall_4
+    21300020: chall_5
+    21300022: chall_6
+    21300024: chall_7
+    21300026: chall_8
+    21300028: chall_9
+    21300030: chall_10
+    21300032: chall_11
+    21300034: chall_12
+    21300036: chall_13
+    21300038: chall_14
+    21300040: chall_15
+    21300042: chall_16
+    21300044: chall_17
+    21300046: chall_18
+    21300048: chall_19
+    21300050: chall_20
+    21300052: chall_21
+    21300054: chall_22
+    21300056: chall_23
+    21300058: chall_24
+    21300060: chall_25
+    21300062: chall_26
+    21300064: chall_27
+    21300066: chall_28
+    21300068: chall_29
+    21300070: chall_30
+    21300072: chall_31
+    21300074: chall_32
+    21300076: chall_33
+    21300078: chall_34
+    21300080: chall_35
+    21300082: chall_36
+    21300084: chall_37
+    21300086: chall_38
+    21300088: chall_39
+    21300090: chall_40
+    21300092: chall_41
+    21300094: chall_42
+    21300096: chall_43
+    21300098: chall_44
+    21300100: chall_45
+    21300102: chall_46
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-hy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 288
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u5C0F\u9C7C\u8D70_\u7231\u7ED9\u7F51_aigei_com"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 406
+        width: 432
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u82CF\u6A31_\u7231\u7ED9\u7F51_aigei_com"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 438
+        width: 432
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

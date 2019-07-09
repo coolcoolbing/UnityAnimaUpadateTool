@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d803ff2a8a53b879c3c71df73e61969d:0be3853ee84204bf6b03c988793fb098:85e2c87a5344980232dcdd08fad8d687$
+#
+:format=40300
+:texture=chall.png
+:size=872x872
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+1-hy;2;120;288;284; 0.5;0.5; 0;0;0;0
+1-新绝代双骄2-小鱼走_爱给网_aigei_com;2;406;432;464; 0.5;0.5; 0;0;0;0
+1-新绝代双骄2-苏樱_爱给网_aigei_com;436;438;432;432; 0.5;0.5; 0;0;0;0
