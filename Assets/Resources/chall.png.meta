@@ -94,7 +94,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -126,10 +126,10 @@ TextureImporter:
       name: 1-hy
       rect:
         serializedVersion: 2
-        x: 2
-        y: 120
-        width: 288
-        height: 284
+        x: 0
+        y: 758
+        width: 270
+        height: 266
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,12 +140,12 @@ TextureImporter:
       name: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u5C0F\u9C7C\u8D70_\u7231\u7ED9\u7F51_aigei_com"
       rect:
         serializedVersion: 2
-        x: 2
-        y: 406
-        width: 432
-        height: 464
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 377
+        y: 589
+        width: 377
+        height: 435
+      alignment: 9
+      pivot: {x: 0.5238727, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,10 +154,10 @@ TextureImporter:
       name: "1-\u65B0\u7EDD\u4EE3\u53CC\u9A842-\u82CF\u6A31_\u7231\u7ED9\u7F51_aigei_com"
       rect:
         serializedVersion: 2
-        x: 436
-        y: 438
-        width: 432
-        height: 432
+        x: 0
+        y: 184
+        width: 359
+        height: 405
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
